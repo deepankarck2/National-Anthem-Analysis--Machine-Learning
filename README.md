@@ -5,13 +5,12 @@ In this project, I used natural language processing (NLP) techniques and k-means
 
 ## Presentation: 
 
-![Slide1](https://user-images.githubusercontent.com/52084764/211071332-bf0b7c23-e29b-494a-937c-f25948dd8c6e.JPG)
+<img src="https://user-images.githubusercontent.com/52084764/211071332-bf0b7c23-e29b-494a-937c-f25948dd8c6e.JPG" width="730" height="400" >
 
-![Slide2](https://user-images.githubusercontent.com/52084764/211071339-0325527e-e7ee-4423-bd51-557e0daac1df.JPG)
+<img src="https://user-images.githubusercontent.com/52084764/211071339-0325527e-e7ee-4423-bd51-557e0daac1df.JPG" width="730" height="400" > 
 
-![Slide3](https://user-images.githubusercontent.com/52084764/211071361-27814ed9-f94e-4bd2-9300-005732e04233.JPG)
+<img src="https://user-images.githubusercontent.com/52084764/211071361-27814ed9-f94e-4bd2-9300-005732e04233.JPG" width="730" height="400" >
 
-![Slide4](https://user-images.githubusercontent.com/52084764/211071379-279121b6-37e8-4bdc-90ee-113b55ccace9.JPG)
+<img src="https://user-images.githubusercontent.com/52084764/211071379-279121b6-37e8-4bdc-90ee-113b55ccace9.JPG" width="730" height="400" >
 
-![Slide5](https://user-images.githubusercontent.com/52084764/211071426-99a24cc9-0810-4838-bf18-1dd4ffaf4613.JPG)
-
+<img src="https://user-images.githubusercontent.com/52084764/211071426-99a24cc9-0810-4838-bf18-1dd4ffaf4613.JPG" width="730" height="400" >

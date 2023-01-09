@@ -42,7 +42,6 @@ what role does anthem play in a nation’s identity.
   understanding of the values and themes that are important to a particular country.
 </p>
 
-
 ## Presentation: 
 <p> The link to powerpoint: <a href="https://ccnymailcuny-my.sharepoint.com/:p:/g/personal/dchakra001_citymail_cuny_edu/Ed019F_ifTpNrqzAmL_RFSsBK80Kd8mwb4jWbReDxgUR_Q?e=HwSPhr"> Nation Anthem Classification Presentation</a>
 <p align="center">
@@ -65,7 +64,6 @@ what role does anthem play in a nation’s identity.
   <img src="https://user-images.githubusercontent.com/52084764/211071473-9dc7f155-b5ab-4968-90c7-ea20dba9bba5.JPG" width="730" height="400" >
 
   <img src="https://user-images.githubusercontent.com/52084764/211071478-6552a580-2e66-478d-9afd-9a3faf5c396b.JPG" width="730" height="400" >
-
   <img src="https://user-images.githubusercontent.com/52084764/211071489-ba187ca4-7e00-4968-b14e-a16c76149baf.JPG" width="730" height="400" >
 
 </p>

@@ -1,8 +1,6 @@
 ## Verse-ing Together: Machine Learning Clusters National Anthems by Lyrics to Unite the World
 
 In this project, I used natural language processing (NLP) techniques and k-means clustering to cluster a set of 190 national anthems based on their English lyrics and identify the patterns and themes shared by groups of countries with similar cultural or historical similarities by clustering them into different categories.
-## ----------------------------------------------------------------------------------
-# NOTE: The repo is currently under construction. Preliminary code can be found in the above .ipynb file.
 
 ## Paper:
 <p> The paper is avalable here: <a href="https://drive.google.com/file/d/1Kz40kyDMxNaMObaJVEfdjiYgH39c6_53/view?usp=sharing"> The Story of National Anthem Through Machine Learning </a>
